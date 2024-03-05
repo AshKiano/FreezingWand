@@ -1,0 +1,8 @@
+name: FreezingWand
+version: '1.3'
+main: com.ashkiano.freezingwand.FreezingWand
+api-version: '1.16'
+author: AshKiano
+commands:
+  freezingwand:
+    description: Gives the player a freezing wand.
